@@ -7,3 +7,5 @@
 ![Linux] (https://github.com/MoparthiDhanaLakshmi/5219665/blob/da19b642e478b1384829f5568fb4f11d7a732433/linux/linux%20commands.png)
 
 ![linux day 2] (https://github.com/MoparthiDhanaLakshmi/5219665/tree/719c61cce372a0602ddab52f1e8711164da31ad6/linux)
+
+![C program basic SOLOLEARN] (https://github.com/MoparthiDhanaLakshmi/5219665/blob/369f9aabdf8d950dcb4cec50f26cac3bfe779cc9/Sololearn/5219665_Moparthi%20Dhana%20lakshmi_Sololearn.pdf)
